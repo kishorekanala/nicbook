@@ -3,7 +3,8 @@
 
 ### What Application sees wrt Data Flow
 
-Applications such as email, browser prepare buffer with content to be sent to destination by opening a socket and sending the content over the socket at the sender side. At the receiving side, applications such as email, browser opens socket and receives the content over the scokets.
+Applications such as email, browser prepare buffer with content to be sent to destination by opening a socket and sending the content over the socket at the sender side. At the receiving side, applications such as email, browser opens socket and receives the content over the sockets.
+sdfsfd
 
 
 <figure style="text-align: center;">
